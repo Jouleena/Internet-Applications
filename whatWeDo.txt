@@ -1,4 +1,2 @@
 Internet Applications 
-we have learned es6 and git sofar 
-ES6 stands for ECMA Script 6 which is a part of the "Harmony" umbrella that was releaded in 2015, a programming language.
 GIT is a distributed version control system that records changes to a file or set of files.
