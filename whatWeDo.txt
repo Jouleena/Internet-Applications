@@ -1,3 +1,2 @@
 Internet Applications 
-Git is a distributed version control system that records changes to a file or set of files.
-Git is used to collaborate on code.
+Git is a distributed version control system that records changes to a file or set of files, Git is used to collaborate on code.
